@@ -2,4 +2,4 @@
 - 👀 I’m interested in cyber security, and i am CTF player 
 - 🌱 I’m currently learning fundamentals of SOC
 - ✨ Working with ReactJS 
-- ⚡ Fun fact: i love physics and history 
+- ⚡ Fun fact: i love physics , history and meemee
