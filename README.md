@@ -1,5 +1,5 @@
 
-![after-coding-all-night-animation](https://github.com/lemonbreez/lemonbreez/assets/144593642/3ff5a85d-946d-4a66-bb0b-6913780928e9)
+![gitduck-vs-code-extensions-animation-opt](https://github.com/lemonbreez/lemonbreez/assets/144593642/1738e945-eece-404f-8e77-3d7d40601c92)
 
 - 👋 Hi, I’m maysa 
 - 👀 I’m interested in cyber security, and i am CTF player 
