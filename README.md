@@ -2,9 +2,8 @@
 ![f9d344fe-3715-41b8-8996-6d844cac422b_scrivaniapreview](https://github.com/lemonbreez/lemonbreez/assets/144593642/097415f4-f4c7-488c-9328-100b45c3aa48)
 
 - 👋 Hi, I’m maysa 
-- 👀 I’m interested in cyber security, and i am CTF player 
+- 🔆 interested in cyber security, and i am CTF player 
 - 🌱 I’m currently learning fundamentals of SOC
-- ✨ Working with ReactJS 
 - ⚡ Fun fact: i love physics , history and meemee
 
 <h3 align="left">Languages and Tools:</h3>
